@@ -2,4 +2,4 @@
 
 Basic problems resolutions
 
-Commit pattern: **<language>(Algorithm): Problem title**
+Commit pattern: **language(Algorithm): Problem title**
